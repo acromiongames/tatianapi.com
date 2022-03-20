@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://acromiongames.github.io/tatianapi.com/sitemap.xml

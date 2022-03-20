@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://acromiongames.github.io/tatianapi.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://acromiongames.github.io/tatianapi.com/</loc>
+</url>
+<url>
+<loc>https://acromiongames.github.io/tatianapi.com/about-me.html</loc>
+<lastmod>2022-02-02T20:28:43-08:00</lastmod>
+<image:image>
+<image:loc>https://acromiongames.github.io/tatianapi.com/media\posts\1/gallery/bafb5b4e-009c-4b21-9c5a-14e1f9785c31-2-thumbnail.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://acromiongames.github.io/tatianapi.com/media\posts\1/gallery/IMG-20210611-WA0010-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://acromiongames.github.io/tatianapi.com/media\posts\1/gallery/d0dc604a-27dc-42c5-88a0-21529a0655b6-2-thumbnail.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://acromiongames.github.io/tatianapi.com/contact-me.html</loc>
+<lastmod>2022-02-02T20:30:42-08:00</lastmod>
+</url>
+</urlset>
